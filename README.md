@@ -37,6 +37,8 @@ The API will be available at http://127.0.0.1:8000. You can access the interacti
 Testing
 The project maintains a strict testing suite to guarantee data integrity. Tests are configured to automatically spin up isolated database sessions and mock user authentication.
 
+
+
 Run the test suite with standard output to view detailed execution logs:
 
 Bash
